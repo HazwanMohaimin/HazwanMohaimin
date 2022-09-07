@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HazwanMohaimin
-- 👀 I’m interested in Web and App development
-- 🌱 I’m currently learning content of Front-end Web Development
-- 💞️ I’m looking to collaborate on anything to sharpen my web coding skills
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently still learning anything in game development, especially in pixel art, coding and game design
+- 💞️ My dream is to remake and renew some old gba game into my version of it. From their storyline and design
 - 📫 How to reach me ..... Email at hazwanmohaimin@gmail.com
 
 <!---
